@@ -17,5 +17,6 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.15",
     "yup": "^0.32.11"
-  }
+  },
+  "proxy": "https://gilded-banoffee-76fb68.netlify.app"
 }
